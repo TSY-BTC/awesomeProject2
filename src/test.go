@@ -13,10 +13,12 @@ func main() {
 	fmt.Printf("%T\n", p)
 
 	// 切片类型
-	c := []int{1, 23, 67, 3}
+	c := []int{1, 23, 4, 3, 67, 3}
 	fmt.Printf("%T\n", c)
 
 	test()
+
+	fmt.Printf("funck")
 
 	/* 	打印类型
 	   	var name string = "tome"
