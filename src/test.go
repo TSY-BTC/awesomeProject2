@@ -20,6 +20,8 @@ func main() {
 
 	fmt.Printf("funck")
 
+	fmt.Printf("bug2 改好了")
+
 	/* 	打印类型
 	   	var name string = "tome"
 	   	age := 20
