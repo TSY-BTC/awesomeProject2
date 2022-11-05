@@ -24,7 +24,9 @@ func main() {
 
 	fmt.Printf("修改1")
 
-	fmt.Printf("GITHUB 推送")
+	fmt.Printf("GITHUB 推送       ")
+
+	fmt.Printf("10.12 test")
 
 	/* 	打印类型
 	   	var name string = "tome"
