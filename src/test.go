@@ -35,6 +35,8 @@ func main() {
 	fmt.Printf("good job")
 	fmt.Printf("btcu")
 
+	fmt.Printf("ok pull")
+
 	/* 	打印类型
 	   	var name string = "tome"
 	   	age := 20
