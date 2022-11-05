@@ -28,6 +28,8 @@ func main() {
 
 	fmt.Printf("10.12 test")
 
+	fmt.Printf("11.05 ttest ")
+
 	/* 	打印类型
 	   	var name string = "tome"
 	   	age := 20
