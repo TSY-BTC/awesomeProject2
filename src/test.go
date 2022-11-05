@@ -30,11 +30,10 @@ func main() {
 
 	fmt.Printf("10.12 test")
 
-	fmt.Printf("11.05 ttest ")
-
 	fmt.Printf("git global name change to chenyu ")
 
 	fmt.Printf("good job")
+	fmt.Printf("btcu")
 
 	/* 	打印类型
 	   	var name string = "tome"
