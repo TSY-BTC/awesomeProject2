@@ -34,6 +34,8 @@ func main() {
 
 	fmt.Printf("git global name change to chenyu ")
 
+	fmt.Printf("good job")
+
 	/* 	打印类型
 	   	var name string = "tome"
 	   	age := 20
