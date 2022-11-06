@@ -22,21 +22,6 @@ func main() {
 
 	fmt.Printf("funck")
 
-	fmt.Printf("bug2 改好了")
-
-	fmt.Printf("修改1")
-
-	fmt.Printf("GITHUB 推送       ")
-
-	fmt.Printf("10.12 test")
-
-	fmt.Printf("git global name change to chenyu ")
-
-	fmt.Printf("good job")
-	fmt.Printf("btcu")
-
-	fmt.Printf("ok pull")
-
 	/* 	打印类型
 	   	var name string = "tome"
 	   	age := 20
